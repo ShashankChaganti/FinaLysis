@@ -22,7 +22,8 @@ pip install -r requirements.txt
 ```
 3) Run the Application
 
-**python applysis.py**
+``python applysis.py``
+
 The application will be available at http://127.0.0.1:8050/.
 
 Configuration
