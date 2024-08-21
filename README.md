@@ -13,7 +13,7 @@ This Dash application provides a comprehensive financial analysis dashboard, fea
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/financial-analysis-dashboard.git
+   git clone https://github.com/ShashankChaganti/FinaLysis.git
    cd financial-analysis-dashboard
 
 2) Install Dependencies
