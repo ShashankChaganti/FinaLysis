@@ -14,12 +14,12 @@ This Dash application provides a comprehensive financial analysis dashboard, fea
 
    ```bash
    git clone https://github.com/ShashankChaganti/FinaLysis.git
-   cd financial-analysis-dashboard
+   cd FinaLysis
 
 2) Install Dependencies
-
-**pip install -r requirements.txt**
-
+```
+pip install -r requirements.txt
+```
 3) Run the Application
 
 **python applysis.py**
