@@ -1,0 +1,6 @@
+pandas==2.0.3
+numpy==1.25.0
+dash==2.11.1
+dash-bootstrap-components==2.7.0
+plotly==5.15.0
+fredapi==1.5.1
